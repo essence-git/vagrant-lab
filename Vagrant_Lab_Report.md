@@ -78,7 +78,6 @@ This configuration tells Vagrant to use the Ubuntu box **hashicorp/bionic64**.
 
 ![alt text](screenshot2.png)
 
-
 ## Step 6: Start the Virtual Machine
 Before starting the VM, I ensured **Oracle VirtualBox** was installed and available.  
  
@@ -129,11 +128,10 @@ vagrant halt
 
 ![alt text](screenshot4.png)
 
-
 ![alt text](screenshot5.png)
 
-![alt text](screenshot6.png)
 
+![alt text](screenshot6.png)
 
 ## Conclusion
 In this lab, I successfully:
